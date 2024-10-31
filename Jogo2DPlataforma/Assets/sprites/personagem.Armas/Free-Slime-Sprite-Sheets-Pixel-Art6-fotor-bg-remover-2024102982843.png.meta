@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: ca09ddd5956826e4785a2c08fb8df26d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 280
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845752054c0b5ba4eb23a2367dbd156d
+      internalID: 2146809357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 276
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66033c2371ad4a499bb4b3ae2964fc3
+      internalID: 957881691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 275
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300c1ee20274fcd4f8f3106a68ad75e9
+      internalID: -1870317246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 275
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2526c306734b449f6ea19d78035ab
+      internalID: 177453902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 275
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2640cf80fbb44fd4489fec3e37eae4f4
+      internalID: -452979150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 275
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ff373ed156a5044af15cbd8bbff1cb
+      internalID: -795091961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 275
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ea4abf175f47449b34bd23220bb383
+      internalID: -147005468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 275
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8187251ee1f084db76e3aaa0687711
+      internalID: 220426499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_8
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 275
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316edf96a4d8c6f4da6b9a3b205cfaa2
+      internalID: 914630566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 214
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858c0056e69f93b49842ba9a2a12a942
+      internalID: -1789108087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 214
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3215f4db5cd0904d989ac39b85391b0
+      internalID: -1282360715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 214
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d053cd1ccdb9b2418388550f229250d
+      internalID: 371908070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 214
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dd915c90f06ed40959c317204423cc
+      internalID: 629609201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 214
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0856ff03aee17d4bab65d1204eb2bb2
+      internalID: -809779313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 214
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad463117aa7a44447aea27ff2bc00a0a
+      internalID: 292713409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 214
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b2ffac94067548864af7fdcff0399
+      internalID: -1383575036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_16
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 214
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4f2c33f1f75244c8f1927ac1866808
+      internalID: 871465755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 150
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b622c109a530f48b5ee497c4d9d61f
+      internalID: 2131172454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 150
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8e98dc9f72253419157c2105c1f0f3
+      internalID: -1125661285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 150
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8278f9720a11d3f4ebbf258c6b8886fd
+      internalID: -1706199544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_20
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 150
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0042cce0b790a7246be7c8c28f31e9ac
+      internalID: -449834739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 150
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e76d36b3c7b6e4a88efc4dc3353044
+      internalID: 1432389293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 150
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9569bea3c77aee14d8739a923f43c46e
+      internalID: -412203013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 150
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e9d40fbaa07e2429de4e3f09a6b514
+      internalID: -1644014477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 91
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8212cd3a7c029d540b5a612e0f42c1cf
+      internalID: 859333223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 91
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2df2674c2910d3438644520a0bef81f
+      internalID: 299413086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 91
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db078c9d386d25c449157d727245a02d
+      internalID: 164377769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daead4362f82e8d41a696bfb7dca1a27
+      internalID: -2039468527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 96
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59870cc2d92e22940bd565536f782f2e
+      internalID: -582530486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_29
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 94
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef3606a3a145d24894e18e1b91a744b
+      internalID: 1720300161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 91
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0df34366184874eaaecfae8dc479db
+      internalID: -746032459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 91
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c0dfe00d7ca0947816afb16cc629b0
+      internalID: -1089026792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 33
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f3b4fe8a16ba44b802a83746e5f0af
+      internalID: 18292480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 33
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04bf6c8ff595f349a6f403599bfd025
+      internalID: 54336732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 36
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5454a59c0da108f45b2f6033250edf02
+      internalID: -1983834918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 40
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf009c7595f1e7f43bacb86319cdf1f5
+      internalID: -1379830357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 43
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc21d3d2c7d82ec4f995aeee8939f765
+      internalID: -1188276949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_37
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 42
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b458778a93c385c44b2b68445fc2259c
+      internalID: 1288936247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 40
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9352ac33ba493bf479970ff78e2baffa
+      internalID: 448342789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_39
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 33
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3cdd01a61028748bdb6f4c2466346e
+      internalID: 972302239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_0: 2146809357
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_1: 957881691
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_10: -1282360715
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_11: 371908070
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_12: 629609201
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_13: -809779313
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_14: 292713409
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_15: -1383575036
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_16: 871465755
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_17: 2131172454
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_18: -1125661285
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_19: -1706199544
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_2: -1870317246
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_20: -449834739
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_21: 1432389293
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_22: -412203013
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_23: -1644014477
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_24: 859333223
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_25: 299413086
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_26: 164377769
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_27: -2039468527
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_28: -582530486
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_29: 1720300161
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_3: 177453902
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_30: -746032459
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_31: -1089026792
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_32: 18292480
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_33: 54336732
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_34: -1983834918
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_35: -1379830357
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_36: -1188276949
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_37: 1288936247
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_38: 448342789
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_39: 972302239
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_4: -452979150
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_5: -795091961
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_6: -147005468
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_7: 220426499
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_8: 914630566
+      Free-Slime-Sprite-Sheets-Pixel-Art6-fotor-bg-remover-2024102982843_9: -1789108087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
